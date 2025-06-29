@@ -1,4 +1,4 @@
-#This is Adil's Workspace. Please review the Index and it's constituents:
+# This is Adil's Workspace. Please review the Index and it's constituents:
 
 1. UX Diary: A reading guide of the work that i do, what it encompasses and why it was done. it gets updated at the end of everyday. 
 2. Kanban and Roadmap: Please find it under Projects -> adilhushh's Kanban 
